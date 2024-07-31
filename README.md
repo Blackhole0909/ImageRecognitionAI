@@ -10,8 +10,6 @@ Yep, Remember I'm not a computer science student.
 
 ### Similar Project
 
-https://github.com/BaseMax/ImageRecognition
-
 ### Installing
 
 ```
